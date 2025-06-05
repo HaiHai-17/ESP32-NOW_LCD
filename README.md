@@ -5,7 +5,7 @@ Một giao diện LCD cảm ứng để điều khiển thiết bị **ESP32 CYD
 ---
 
 ## 📸 Giao diện chính (Main Interface)
-![image](https://github.com/user-attachments/assets/78d7ff4c-1503-4dbd-8fd4-78a296a6fdbe)
+![image](https://github.com/user-attachments/assets/4617a9b5-4daa-4a82-b7b9-3cc163902218)
 
 ## 📂 Cách sử dụng (How to Use)
 
